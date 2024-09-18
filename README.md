@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif)]
+[![MasterHead](https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif)]
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">A passionate frontend developer and 3D web enthusiast</h3>
