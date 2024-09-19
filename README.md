@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif)]
-<img align="center" alt="Coding"  src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif">
+<img align="center" alt="Coding" width="full" src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif">
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
