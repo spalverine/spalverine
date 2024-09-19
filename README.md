@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spalverine&label=Profile%20views&color=0e75b6&style=flat" alt="spalverine" /> </p>
 
-<p align="left"> <a href="https://twitter.com/spalverine" target="blank"><img src="https://img.shields.io/twitter/follow/spalverine?logo=twitter&style=for-the-badge" alt="spalverine" /></a> </p>
+
 
 - 🔭 I’m currently working on **my portfolio**
 
