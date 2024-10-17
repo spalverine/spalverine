@@ -1,9 +1,11 @@
-![MasterHead](https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif)
+<div align="center">  
+  ![MasterHead](https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif)
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
-  <img align="right" width="400" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" width="400" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spalverine&label=Profile%20views&color=0e75b6&style=flat" alt="spalverine" /> </p>
 
