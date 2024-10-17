@@ -3,9 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
-<div justify-content="center">
-  <img align="center" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
-</div>
+  <img align="right" width="400" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spalverine&label=Profile%20views&color=0e75b6&style=flat" alt="spalverine" /> </p>
 
