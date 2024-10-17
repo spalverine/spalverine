@@ -1,4 +1,7 @@
- <img align="center" src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif">
+<div align="center">
+  <img align="center" src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif">
+ 
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
