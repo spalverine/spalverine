@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif">
 </div>
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1103030133779840933" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=1103030133779840933" height="354" width="450" frameborder="0" scrolling="no" >
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
