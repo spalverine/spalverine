@@ -1,10 +1,6 @@
 
 
 ![Sakura midnight train『PC』 (online-video-cutter com)](https://github.com/user-attachments/assets/24770fb6-486a-46dd-84bc-8ebbd10df39e)
-<div align="center" width="600px" >
-  <img src="https://github.com/user-attachments/assets/24770fb6-486a-46dd-84bc-8ebbd10df39e">
-</div>
-
 
 
 <h1 align="center">Hi 👋, I'm Amira</h1>
