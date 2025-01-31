@@ -1,10 +1,9 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/84/cc/00/84cc005b1b6afcb7a935e53eb2c0b374.gif">
-</div>
 
 
 ![Sakura midnight train『PC』 (online-video-cutter com)](https://github.com/user-attachments/assets/24770fb6-486a-46dd-84bc-8ebbd10df39e)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/24770fb6-486a-46dd-84bc-8ebbd10df39e">
+</div>
 
 
 
