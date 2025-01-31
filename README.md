@@ -2,12 +2,10 @@
  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </div>
 
-
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F785C0&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Amira" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
 </h1>
-  
+
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
