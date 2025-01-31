@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF70A2&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Amira+)](https://git.io/typing-svg)
+ <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF70A2&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Amira+" </a>
 </h1>
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
