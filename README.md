@@ -4,12 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi👋,+I'm+Amira!;" />
 </h1>
 <h3 align="center">A passionate frontend developer and 3D web design enthusiast</h3>
-<img align="right" width="400" alt="Coding" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spalverine&label=Profile%20views&color=0e75b6&style=flat" alt="spalverine" /> </p>
 
 
-
+<br/>
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **web design**
@@ -23,6 +23,7 @@
 <a href="https://instagram.com/spalverine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spalverine" height="30" width="40" /></a>
 </p>
 
+<br/>
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
