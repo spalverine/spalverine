@@ -41,22 +41,24 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=spalverine&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=spalverine&theme=radical&hide_border=false" /><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=spalverine&theme=radical&hide_border=false&include_all_commits=false&count_private=true" style="display: block; margin: auto; margin-bottom: 20px;" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spalverine&theme=radical&hide_border=false" style="display: block; margin: auto; margin-bottom: 40px;" />
 </div>
-
-<br/>
 
 <h2 align="center" >🏆 GitHub Trophies</h2>
 <br/>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=spalverine&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-    
+    <img src="https://github-profile-trophy.vercel.app/?username=spalverine&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+<br/>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><br/>
+</div>
 
 ---
 
