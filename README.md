@@ -60,7 +60,9 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /><br/>
 </div>
 
+ <a href="https://github.com/rogueinnovator/rogueinnovator"><img alt="rogueinnovator's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=rogueinnovator&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 ---
+
 
 
 
